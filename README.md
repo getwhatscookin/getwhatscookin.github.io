@@ -1,3 +1,5 @@
-## WhatsCookin
+# Company Website
 
-Apply for jobs on [Notion](https://www.notion.so/WhatsCookin-Job-Board-da16b9322f554f119ac58cd965a64c28?p=54ba522ff76f49a7b75af604d18d985f)
+Credits: [html5up/eventually](https://html5up.net/eventually)
+
+Join us @ [https://getwhatscookin.com/apply](getwhatscookin.com/apply)

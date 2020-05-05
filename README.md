@@ -1,5 +1,5 @@
 # Company Website
 
-Credits: [html5up/eventually](https://html5up.net/eventually)
+Credits: [https://html5up.net/eventually](html5up/eventually)
 
-Join us @ [https://getwhatscookin.com/apply](getwhatscookin.com/apply)
+Join us @ [getwhatscookin.com/apply](https://getwhatscookin.com/apply)
